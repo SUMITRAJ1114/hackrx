@@ -1,0 +1,8 @@
+langchain
+faiss-cpu
+pypdf
+python-docx
+google-generativeai
+sentence-transformers
+gradio
+langchain-community
